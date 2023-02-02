@@ -1,0 +1,8 @@
+{
+  "domain": "cic-slamb.us.auth0.com",
+  "clientId": "Nauq1LCYJpGyoeUydR80pxjY0DW6rG8V",
+  "audience": "https://api",
+  "issuerBaseURL": "cic-slamb.us.auth0.com",
+  "issuer": "https://cic-slamb.us.auth0.com/",
+  "jwksUri": "https://cic-slamb.us.auth0.com/.well-known/openid-configuration"
+}

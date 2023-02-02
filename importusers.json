@@ -1,0 +1,13 @@
+[
+    {
+        "email": "importeduser0@okta.com",
+        "email_verified": false,
+        "custom_password_hash": {
+            "algorithm": "md4",
+            "hash": {
+                "value": "c49a64b70e5013b7436389b6190461d3",
+                "encoding": "base64"
+            }
+        }
+    }
+]
